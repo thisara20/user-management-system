@@ -1,0 +1,27 @@
+/* .login_box {
+    width: 340px;
+    padding: 20px;
+    background-color: #fff;
+};
+
+.centeredContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  } */
+  /* login-form.module.css */
+.centeredContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust to set the height of the container */
+    padding: 20px; /* Add space from the left and right */
+    margin-top: 1vh; /* Add space from the top */
+    margin-bottom: 1vh; /* Add space from the bottom */
+  }
+  
+  .login_box {
+    width: 300px; /* Adjust to set the width of the login box */
+  }
+  
